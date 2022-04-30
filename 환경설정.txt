@@ -1,0 +1,49 @@
+vs-code 설치 프로그램
+1. code spell checker
+2. Live Server
+3. Prettier - Code formatter
+4. ES7 React/Tedux/GraphQl/React-Native snippets
+5. Auto Rename Tag
+6. Auto Close Tag
+7. GitLens - Git supercharged
+Ctrl +Shift +P  -> shell 설치하기 
+셋팅 끝
+
+Html 파일에서 마우스 오른쪽 클릭 open with live server 선택 하면 
+아래 같은 경로의 화면이 나옴
+http://127.0.0.1:5500/index.html
+
+
+싸이트 : github.com
+아이디 : choiwooyoung
+패스워드 : choi830921!
+
+
+
+
+scvse@DESKTOP-R4LGO9H MINGW64 ~
+$ git config --global user.name "wooyoung"
+
+scvse@DESKTOP-R4LGO9H MINGW64 ~
+$ git config --global user.email "scvsec@naver.com"
+
+scvse@DESKTOP-R4LGO9H MINGW64 ~
+$ git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager-core
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=wooyoung
+user.email=scvsec@naver.com
+
+scvse@DESKTOP-R4LGO9H MINGW64 ~
